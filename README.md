@@ -1,4 +1,7 @@
 # Hola a todos, soy Richard Aguirre 🌩️
+<div align="center">
+  <img src="https://github.com/richardaguirre1/richardaguirre1/background.jpg" alt="Richard Devops">
+</div>
 
 ¡Bienvenido a mi repositorio! Este espacio está dedicado a compartir proyectos, código y recursos educativos relacionados con la nube y tecnologías modernas de DevOps.
 
