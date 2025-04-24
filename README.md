@@ -13,7 +13,7 @@ Este repositorio incluye:
 - **Guías paso a paso**: Contenido complementario a los videos de YouTube.
 
 ## 🛠️ Tecnologías que uso
-- **Cloud**: AWS (EC2, S3, Lambda, RDS, IAM, y más)
+- **Cloud**: AWS (EC2, S3, Lambda, RDS, IAM, y más)  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 - **Infraestructura como Código (IaC)**: Terraform, CloudFormation, AWS CDK
 - **Lenguajes**: Python, JavaScript, TypeScript, Bash
 - **Herramientas DevOps**: Docker, Kubernetes, CI/CD (GitHub Actions, CodePipeline)
